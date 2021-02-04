@@ -1,0 +1,15 @@
+body{
+  background-color: #ec8172;
+}
+h1{
+  text-align: center;
+  color: white;
+
+}
+p{
+  font-size: 2rem;
+}
+.kk{
+  width: 200px;
+  padding: 2% 10%;
+}
